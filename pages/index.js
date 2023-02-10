@@ -54,7 +54,7 @@ export default function Home(){
              .container{
                 
                  background:var(--dark);
-                 margin:40px 180px 0px;
+                 margin:25px 180px 0px;
                  border-radius:10px;
                  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
                  backdrop-filter: blur(5px);
