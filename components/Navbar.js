@@ -5,7 +5,7 @@ const Navbar = () => {
 
         <nav className = "navbar">
             <div className= "brand">
-            <span className =" asciiSize">‹</span>p<span className='asciiSize'>›</span><span className="one asciiSize">‹</span><span className='a'>a</span><span className='asciiSize'>›</span><span className='asciiSize'>‹</span><span className='one' >/ul</span ><span className = "asciiSize">›</span>
+             <span className =" asciiSize one">‹</span>p<span className='asciiSize one'>›</span><span className="one asciiSize">‹</span><span className='a'>a</span><span className='asciiSize one'>›</span><span className='asciiSize two'>‹</span><span className='slash' >/</span ><span >ul</span ><span className = "asciiSize one">›</span>
             </div >
        <div className='links'>
             <Link  href="/" >Home</Link>
@@ -53,10 +53,17 @@ const Navbar = () => {
                   .a{
                     font-family:Manjari;
                   }
+                  .slash{
+                    color:var(--heading);
+                    font-size:30pt
+                    }
 
-                
-                    
+                    .asciiSize{
+                      font-size:30pt;
+                      font-weight:100
+
                 }
+                
             `}</style>
       
 
