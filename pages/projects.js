@@ -45,7 +45,7 @@ const Projects = () => {
                 <Image className='img' src ={Itunes} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>This is a full stack application retreaving information from a iTunes API.</p>
-                <Link target="_blank" href = "https://github.com/paulgreenwood67/iTunes-App">
+                <Link target="_blank" href = "https://i-tunes.vercel.app/">
                 <button className='WebBtn'>iTunes</button>
                 </Link>
                 
