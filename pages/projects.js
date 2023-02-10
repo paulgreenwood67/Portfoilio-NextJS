@@ -74,7 +74,7 @@ const Projects = () => {
                 <Image className='img' src ={starwars} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>This a NextJS app displaying Star Wars data from an API called SWAPI.</p>
-                <Link target="_blank" href = "https://github.com/paulgreenwood67/NextJS---Star-Wars">
+                <Link target="_blank" href = "https://next-js-star-wars.vercel.app/">
                 <button className='WebBtn'>Star Wars</button>
                 </Link>
                 
