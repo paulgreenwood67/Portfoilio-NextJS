@@ -64,7 +64,7 @@ const Projects = () => {
                 <Image className='img' src ={cars} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>This is a full stack application retreaving information from MongoDB.</p>
-                <Link target="_blank" href = "https://github.com/paulgreenwood67/Car-Inventory">
+                <Link target="_blank" href = "https://car-inventory-beta.vercel.app/">
                 <button className='WebBtn'>Car Inventory</button>
                 </Link>
                 
