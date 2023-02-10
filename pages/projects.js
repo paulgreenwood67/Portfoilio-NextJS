@@ -84,7 +84,7 @@ const Projects = () => {
                 <Image className='img' src ={todo} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>A Full Stack to-do application built using register and sign-in authentication.</p>
-                <Link target="_blank" href = "https://github.com/paulgreenwood67/Full-Stack-To-do">
+                <Link target="_blank" href = "https://full-stack-to-do.vercel.app/">
                 <button className='WebBtn'>2DO</button>
                 </Link>
                 
@@ -104,7 +104,6 @@ const Projects = () => {
                 <Image className='img' src ={cover} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>A React app built using React Router of a fictitious clothing company.</p>
-                
                 <Link target="_blank" href = "https://github.com/paulgreenwood67/Clothing-Company">
                 <button className='WebBtn'>Clothing Company</button>
                 </Link>
