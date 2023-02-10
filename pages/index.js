@@ -15,7 +15,7 @@ export default function Home(){
     {/*<Image className='img' src ={logobg} />*/}
     </div>
        
-         <p>{"{Full Stack Web Developer}"}</p>
+         <p>{"{ Full Stack Web Developer }"}</p>
       
         
         
