@@ -114,7 +114,7 @@ const Projects = () => {
             <div className="gallery">
                 <Image className='img' src ={portfolio} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
-                <p>A responsive Portfolio app built with HTML, CSS and some JavaScript.</p>
+                <p>A responsive portfolio app using HTML, CSS and some JavaScript.</p>
                 
                 <Link target="_blank" href = "https://github.com/paulgreenwood67/HTML-Portfolio">
                 <button className='WebBtn'>Portfolio</button>
