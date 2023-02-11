@@ -115,7 +115,7 @@ const Projects = () => {
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>A responsive portfolio app using HTML, CSS and some JavaScript.</p>
                 
-                <Link target="_blank" href = "https://github.com/paulgreenwood67/HTML-Portfolio">
+                <Link target="_blank" href = "https://html-portfolio-zeta.vercel.app/index.html">
                 <button className='WebBtn'>Portfolio</button>
                 </Link>
                 
