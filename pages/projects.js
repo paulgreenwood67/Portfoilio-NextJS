@@ -104,7 +104,7 @@ const Projects = () => {
                 <Image className='img' src ={cover} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>A React app built using React Router of a fictitious clothing company.</p>
-                <Link target="_blank" href = "https://github.com/paulgreenwood67/Clothing-Company">
+                <Link target="_blank" href = "https://clothing-company.vercel.app/">
                 <button className='WebBtn'>Clothing Company</button>
                 </Link>
                 
