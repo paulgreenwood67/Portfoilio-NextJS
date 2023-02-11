@@ -94,7 +94,7 @@ const Projects = () => {
                 <Image className='img' src ={hangman} width="220" height="auto" />
                 <div className='desc'><b>Project: </b>Coding</div>
                 <p>An app built using React using the popular childrens game of Hangman.</p>
-                <Link target="_blank" href = "hangman-fawn.vercel.app">
+                <Link target="_blank" href = "https://hangman-fawn.vercel.app/">
                 <button className='WebBtn'>Hangman</button>
                 </Link>
                 
